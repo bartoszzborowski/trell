@@ -1,0 +1,11 @@
+{
+    "name": "trell/trell",
+    "description": "Simply framework",
+    "authors": [
+        {
+            "name": "Bartosz Zborowski",
+            "email": "bartoszzborowski25@gmail.com"
+        }
+    ],
+    "require": {}
+}
